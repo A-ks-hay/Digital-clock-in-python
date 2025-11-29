@@ -3,6 +3,8 @@
 A modern and customizable Digital Clock Application built using Python's Tkinter library.
 It displays time, date, and comes with multiple theme selections including Dark Mode, Neon, Light, and Sky Blue.
 
+---
+
 # Features
 
 ✔️ Live digital time (auto refresh every second)
@@ -13,11 +15,15 @@ It displays time, date, and comes with multiple theme selections including Dark 
 ✔️ Fully responsive display
 ✔️ Easy to modify UI fonts, colors, and size
 
+---
+
 # Technologies Used
 Component	Usage
 Python	Core language
 Tkinter	UI Framework
 strftime()	Time & Date formatting
+
+---
 
 # Installation & Setup
 ## 1️⃣ Install Python (if not installed)
@@ -27,8 +33,10 @@ Download from python.org.
 ## 2️⃣ Clone or Download Repository
 git clone (https://github.com/A-ks-hay/Digital-clock-in-python/tree/main)
 
-3️⃣ Run the Program
+## 3️⃣ Run the Program
 python digital_clock.py
+
+---
 
 # Code Overview
 
@@ -40,6 +48,8 @@ OptionMenu allows theme switching.
 
 Button provides easy dark mode toggle.
 
+---
+
 # Future Improvements (Optional)
 
 🔹 Add alarm feature
@@ -47,9 +57,13 @@ Button provides easy dark mode toggle.
 🔹 Add sound effects
 🔹 Add animation (smooth transitions)
 
+---
+
 # License
 
 This project is open-source and free to use.
+
+---
 
 # Author
 

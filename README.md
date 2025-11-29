@@ -25,7 +25,7 @@ strftime()	Time & Date formatting
 Download from python.org.
 
 ## 2️⃣ Clone or Download Repository
-git clone https://github.com/your-username/digital-clock.git
+git clone (https://github.com/A-ks-hay/Digital-clock-in-python/tree/main)
 
 3️⃣ Run the Program
 python digital_clock.py
